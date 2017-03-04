@@ -5,5 +5,5 @@
 ### Que es Scrum
 Aqui vas a describir que es scrum etc etc 
 <center>
-![Esta es una imagen](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwiLzuyLob3SAhXM5oMKHU15B-sQjRwIBw&url=http%3A%2F%2Fwww.planetacurioso.com%2F2013%2F05%2F16%2F10-curiosidades-acerca-de-los-buhos%2F&bvm=bv.148747831,d.cGw&psig=AFQjCNEJ2qCqMY2oRKW-ysGcRGPg60wyjw&ust=1488730935742004)
+![Esta es una imagen](https://www.google.com/imgres?imgurl=http%3A%2F%2Fsimbologia.zonster.com%2Fimages%2Ftipo3%2Fbuho1.jpg&imgrefurl=http%3A%2F%2Fsimbologia.zonster.com%2Fsimbologia-del-buho&docid=v1Z0bJ0L6LK_gM&tbnid=ZDeQmUylR5T-nM%3A&vet=1&w=800&h=600&bih=722&biw=1455&q=buho&ved=0ahUKEwjN2e2Fob3SAhUrjVQKHcUmCroQMwgyKAMwAw&iact=mrc&uact=8)
 </center>
